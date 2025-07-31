@@ -108,7 +108,6 @@
     "suoni": {
       "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "索尼资源"
-      "detail": "https://suoniapi.com"
     },
     "uku": {
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
