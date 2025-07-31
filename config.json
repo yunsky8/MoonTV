@@ -106,8 +106,17 @@
       "name": "红牛资源"
     },
     "suoni": {
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "name": "索尼资源"                  
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
+      "detail": "https://suoniapi.com"
+    },
+    "uku": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "U酷资源网"
+    },
+    "kuaiche": {
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "name": "快车资源"
     }
   }
 }
